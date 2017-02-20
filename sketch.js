@@ -4,7 +4,14 @@
 * IDEA 135
 * Sketch 6: Interactive Avatar
 * Collaboration Statement: I worked alone on this assignment with assistance from the reference site for p5.js (https://p5js.org/reference/). I also watched tutorial videos from "The Coding Train" on youtube (https://www.youtube.com/watch?v=NcCEzzd9BGE)
-*This sketch is different from the previous, since it has now been staticly animated 
+*This sketch is different from my previous sketch since it has now been animated. My avatar now, if executed correctly, performs a trick known in the skateboarding vocabulary as an "Ollie", onto a ledge.
+Although I’m not sure myself which of Victor’s four different types of dynamic pictures my sketch falls under, it seems to resemble both a dynamic image and an interactive image. 
+It falls under the category of a dynamic image because my image appears to move only after clicking buttons; It is not constantly in motion. 
+However, my image is somewhat interactive as well, since a user can decide how quickly my avatar performs the trick through clicking the arrow keys at different rates. 
+This makes me think about how some of Victor’s categories overlap, and question whether or not this overlap sparks controversy within his definitions. 
+In terms of technicality in creating this sketch, I struggled to align my avatar properly, in order to make it seem like he was doing a skate trick. 
+I had to constantly go back and forth from my previous sketch to my new one to make sure that the coordinates lined up.  
+
 */
 
 var bgcolor;
