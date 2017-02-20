@@ -1,3 +1,12 @@
+/**
+* Ewan Creed <ec8725@bard.edu>
+* Feb 20 2017
+* IDEA 135
+* Sketch 6: Interactive Avatar
+* Collaboration Statement: I worked alone on this assignment with assistance from the reference site for p5.js (https://p5js.org/reference/). I also watched tutorial videos from "The Coding Train" on youtube (https://www.youtube.com/watch?v=NcCEzzd9BGE)
+*This sketch is different from the previous, since it has now been staticly animated 
+*/
+
 var bgcolor;
 
 function setup() {
